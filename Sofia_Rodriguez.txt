@@ -1,0 +1,6 @@
+Name: Sofia Rodriguez
+Age: 22
+Gender: Female
+Occupation: University Student (Astrophysics)
+Hobbies: Astrophotography, writing sci-fi short stories, and competitive chess.
+Details: Sofia runs a popular astronomy blog where she shares stunning deep-sky images she captures from her dorm room. She dreams of working on the James Webb Space Telescope project.

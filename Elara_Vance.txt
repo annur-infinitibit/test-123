@@ -1,0 +1,6 @@
+Name: Elara Vance
+Age: 28
+Gender: Female
+Occupation: Marine Biologist
+Hobbies: Scuba diving, analog photography, and restoring vintage watches.
+Details: Elara spends most of her time researching coral reef ecosystems. She has a collection of over 20 mechanical watches she has repaired herself.

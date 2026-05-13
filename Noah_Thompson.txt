@@ -1,0 +1,6 @@
+Name: Noah Thompson
+Age: 19
+Gender: Male
+Occupation: Software Engineering Student
+Hobbies: Competitive gaming (eSports), building custom mechanical keyboards, and drone racing.
+Details: Noah won a national hackathon at 17. He dropped out of a traditional university to join a startup as a full-time developer but still takes online courses to keep his knowledge current.

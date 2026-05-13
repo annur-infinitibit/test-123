@@ -1,0 +1,6 @@
+Name: Isabella Rossi
+Age: 25
+Gender: Female
+Occupation: Professional Ballet Dancer
+Hobbies: Contemporary dance choreography, painting, and practicing calligraphy.
+Details: Isabella is a principal dancer with the New York City Ballet. She suffers from chronic tendonitis but manages it through a strict regimen of Pilates and hydrotherapy.

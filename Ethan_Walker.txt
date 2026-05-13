@@ -1,0 +1,6 @@
+Name: Ethan Walker
+Age: 29
+Gender: Male
+Occupation: Forest Ranger
+Hobbies: Wilderness survival, amateur astronomy, and woodworking.
+Details: Ethan lives in a remote cabin in Yellowstone National Park. He is an expert tracker and has helped locate lost hikers multiple times. He has a dog named Scout who is his constant companion.

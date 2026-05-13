@@ -1,0 +1,6 @@
+Name: Liam Gallagher
+Age: 45
+Gender: Male
+Occupation: Professional Chef (Pastry)
+Hobbies: Baking sourdough bread, collecting rare teas, and playing classical guitar.
+Details: Liam is the head pastry chef at "The Gilded Spoon". His sourdough starter is over 50 years old and is said to have originated from a bakery in San Francisco during the Gold Rush.

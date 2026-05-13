@@ -1,0 +1,6 @@
+Name: David Sterling
+Age: 52
+Gender: Male
+Occupation: Retired History Professor
+Hobbies: Fly fishing, writing historical fiction, and collecting fountain pens.
+Details: Professor Sterling is a celebrated author of historical novels set in ancient Rome. He spends his summers fishing in the Scottish Highlands and his winters writing.

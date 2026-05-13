@@ -1,0 +1,6 @@
+Name: Marcus Chen
+Age: 35
+Gender: Male
+Occupation: Architect
+Hobbies: Urban exploration, digital sculpting, and playing jazz saxophone.
+Details: Marcus is known for his minimalist architectural designs. He prefers working with sustainable materials and is currently designing a zero-energy home in the mountains.
